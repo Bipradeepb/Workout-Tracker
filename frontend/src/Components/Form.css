@@ -1,0 +1,36 @@
+
+
+.form-wrapper
+{
+    width: 37%;
+    padding: 0 1.5rem;
+}
+
+.setmargin
+{
+    margin-top: 8px !important;
+}
+
+.form-header
+{
+    font-weight: 700;
+    padding-bottom: 0.5rem; 
+}
+
+label
+{
+    font-weight: 600;
+}
+.submit-button
+{
+    background-color: #1EA98D !important;
+    width:100%;
+    outline: none !important;
+    border: none !important;
+}
+
+input.error
+{
+    border: 2px solid var(--bs-danger-border-subtle) !important;
+    outline: none !important;
+}

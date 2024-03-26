@@ -1,0 +1,8 @@
+
+
+.main-container
+{
+    display: flex;
+    padding: 2rem 2rem;
+    justify-content: space-between;
+}

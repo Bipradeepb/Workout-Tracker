@@ -1,0 +1,40 @@
+.bg-color-custom
+{
+    /* background-color: #48D2B6 !important; */
+    background-color: #1db496 !important;
+    padding: 0 !important;
+}
+
+.navbar-logo-name{
+    /* background-color: #1EA98D !important; */
+    display: flex;
+    /* padding-left: 1rem; */
+}
+
+.nav-tag{
+    text-align: center;
+    margin-left: 0.5rem;
+    cursor: pointer;
+}
+.logo{
+    font-size: 2.5rem;
+    cursor: pointer;
+    color: rgb(6, 58, 58);
+}
+
+.nav-fluid{
+    padding: 1rem 2rem;
+}
+.nav-item a{
+    margin-left: 1.5rem;
+}
+
+.nav-text-color{
+    color: white !important;
+    margin: 0;
+    padding: 1rem 1rem;
+}
+
+.nav-text-bold{
+    font-weight: 800;
+}
