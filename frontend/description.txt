@@ -1,0 +1,1 @@
+All the frontend logic goes into frontend folder. Contains application related hooks+components+pages+contexts+assets
